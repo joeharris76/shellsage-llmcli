@@ -1,5 +1,17 @@
 # Shell Sage 🐚✨
 
+---
+
+A fork of `Shellsage` where I will convert the local LLM support to use Apple MLX rather than Ollama.
+
+c.f.: 
+* https://llm.datasette.io/en/stable/
+* https://simonwillison.net/tags/mlx/
+* https://github.com/ml-explore/mlx-lm
+
+---
+
+
 **Intelligent Terminal Companion | AI-Powered Terminal Assistant**  
 *(Development Preview - v0.2.0)*
 
